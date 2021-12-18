@@ -339,5 +339,58 @@
     font-family: "Roboto";
     font-size: 16px;
   }
+  .explore-menu-section {
+    background-color: white;
+  }
+  .menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .menu-item-image {
+    border-radius: 16px;
+  }
+  .menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .menu-item-card {
+    border-radius: 16px;
+  }
+  .explore-text{
+    font-size: 10px;
+  }
+  .thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+  }
+  .thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+  .thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+  }
   
   
